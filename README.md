@@ -1,6 +1,6 @@
 # Object Tracking Simulation
 
-This project simulates real-time object tracking using input from a video feed, `luxonis_task_video.mp4`. It identifies and tracks the movement of circles and rectangles of various colors across video frames, visualizing their paths over time.
+This project simulates real-time object tracking using input from a video feed, `video.mp4`. It identifies and tracks the movement of circles and rectangles of various colors across video frames, visualizing their paths over time.
 
 ## Object Detection
 The object detection is performed using the detect_objects function, which identifies circles and rectangles in each frame.
